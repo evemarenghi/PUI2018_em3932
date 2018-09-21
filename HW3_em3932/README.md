@@ -1,1 +1,7 @@
+# PUI2018_em3932/HW3_em3932
 
+In Part 1 of this homework, I created a file in my GitHub repo. I then deleted the file and removed all of its history. It's important to know how to do this because in case you accidentally upload data with sensitive information or PII to GitHub, you need to know how to delete the file and remove its history so that it can no longer be accessed. 
+
+In Part 2 of this homework, I found test data from NYC Open Data, read in the CSV file using Pandas, and mangled it. I used Pandas to play around with the data. I looked at the top and bottom of the file, selected particular columns from the file, and plotted data from the file. This exercise gave me an opportunity to practice using Pandas and manipulating a CSV file in Python. 
+
+In Part 3 of this homework, I wrote a Python script to retrieve and report information from the MTA Bus Time for Developers API. This gave me the opportunity to practice accessing an API, reading a JSON file, and manipulating a Python dictionary. I also was able to experiment with writing code that takes line inputs. 
