@@ -1,6 +1,6 @@
 # PUI2018_em3932/HW3_em3932
 
-In Part 1 of this homework, I created a file in my GitHub repo. I then deleted the file and removed all of its history. It's important to know how to do this because in case you accidentally upload data with sensitive information or PII to GitHub, you need to know how to delete the file and remove its history so that it can no longer be accessed. 
+In Part 1 of this homework, I created a file in my GitHub repo. I then deleted the file and removed all of its history. It's important to know how to do this because in case you accidentally upload data with sensitive information or PII to GitHub, you need to know how to delete the file and remove its history so that it can no longer be accessed. For part 1 of the HW, please reference the file 
 
 In Part 2 of this homework, I found test data from NYC Open Data, read in the CSV file using Pandas, and mangled it. I used Pandas to play around with the data. I looked at the top and bottom of the file, selected particular columns from the file, and plotted data from the file. This exercise gave me an opportunity to practice using Pandas and manipulating a CSV file in Python. 
 
