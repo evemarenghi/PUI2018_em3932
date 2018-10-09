@@ -46,4 +46,7 @@ For part 3 of the homework, I reproduced the analysis of the hard to employ prog
 For part 4 of the homework, I selected some CitiBike datasets from the CitiBike website. I read the datasets into Pandas dataframes and wrangled the data to get into the format that I needed. I then performed correlation tests on the data using three correlation tests - K-S test, Pearson's test, and Spearman's test. The first correlation I assessed was the correlation between time of day for the trip (day vs. night) and trip duration. Once I completed each of the correlation tests using scipy functions, I assessed the results in the context of the null hypothesis for each test. 
 
 
+I worked on this homework by myself. 
+
+
 
