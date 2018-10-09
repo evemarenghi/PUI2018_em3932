@@ -27,7 +27,7 @@ Path analysis	| 8, woman's age, place of residence, religion, socioeconomic stat
 ![main plot](bangladesh_births.png)
 
 
-## Test 1: Logistic Regression
+## Test 3: Logistic Regression
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
