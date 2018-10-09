@@ -8,9 +8,9 @@ The null hypothesis is set up partially correctly in mathematical format since t
 
 The correct mathematical formats for null and alternative hypotheses should be as follows: 
 
+H0: weekend long trips / total weekend trips <= weekday long trips / total weekday trips
 
-# $H_0$ : $\frac{weekend_{\mathrm{long}}}{weekend_{\mathrm{total}}} <= \frac{weekday_{\mathrm{long}}}{weekday_{\mathrm{total}}}$
-# $H_1$ : $\frac{weekend_{\mathrm{long}}}{weekend_{\mathrm{total}}} > \frac{weekday_{\mathrm{long}}}{weekday_{\mathrm{total}}}$
+H1: weeknd long trips / total weekend trips > weekday long trips / total weekday trips 
 
 A significance level was included (alpha = 0.05) which is also part of correctly stating the null hypothesis. 
 
@@ -30,13 +30,3 @@ I would use the z-test to test H0. I would use the z-test because we have two sa
 One variation or additional step that I would recommend would be to do some analysis on trip duration before deciding that 10 minutes defines a 'long trip'. From the bar chart showing distribution of trip duration, we can see that on nearly every day of the week, the proportion of 'long trips' is significantly higher than the proportion of 'short trips'. I would recommend looking at the distribution of trip duration on weekdays during commuting hours to get an idea of how long commuting trips typically take. Then, a more informed threshold can be set for 'long trip'.
 
 I would also recommend using both a cold month and a warm month to control for seasonality, since people might not want to commute to work on a bike in the cold. 
-
-## Assignment 2: Literature choices of statistical tests
-
-For part 2 of the homework, I chose 3 statistical tests from the table provided. I searched the online journal Plos One to find papers that utilized each of the 3 tests I selected. For each paper, I scanned and identified features used in the statistical test (such as independent variable, independent variable type, dependent variable, dependent variable type). I also included a screenshot of the main plot for each statistical test. This exercise helped me to get a better understanding of how statistical tests are used in research and how statistical tests are presented in scientific journals. 
-
-## Assignment 3: Reproduce the analysis of the Hard to Employ program in NY
-
-For part 3 of the homework, I reproduced the analysis of the hard to employ program in NY. I read about the program to get an idea of how the study worked. I then 
-
-## Assignment 4: Literature choices of statistical tests

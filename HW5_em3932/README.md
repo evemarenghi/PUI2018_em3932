@@ -1,10 +1,12 @@
 ## Assignment 1: Review a classmate's Citibike project proposal
 
-For part 1 of the homework, I was assigned a classmate's Citibike project proposal to review. I evaluated my classmate's formulation of the null and alternative hypotheses. I then reviewed my classmate's manipulation of the data to get it into the right from to asssess the null hypothesis. I then selected a statistical test to test the null hypothesis and explained my reasoning. 
+For part 1 of the homework, I was assigned a classmate's Citibike project proposal to review. I evaluated my classmate's formulation of the null and alternative hypotheses. I then reviewed my classmate's manipulation of the data to get it into the right form to test the null hypothesis. I then selected a statistical test to test the null hypothesis and explained my reasoning. 
 
 ## Assignment 2: Literature choices of statistical tests
 
 For part 2 of the homework, I chose 3 statistical tests from the table provided. I searched the online journal Plos One to find papers that utilized each of the 3 tests I selected. For each paper, I scanned and identified features used in the statistical test (such as independent variable, independent variable type, dependent variable, dependent variable type). I also included a screenshot of the main plot for each statistical test. This exercise helped me to get a better understanding of how statistical tests are used in research and how statistical tests are presented in scientific journals. 
+
+## Test 1: Ancova
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
@@ -14,19 +16,22 @@ ANCOVA	| 1, working status (full-time worker, part-time worker, non-worker) | ca
 
 ![main plot](japanese_health.png)
 
+## Test 2: Path Analysis
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Path analysis	| 8, woman's age, place of residence, religion, socioeconomic status, use of family planning methods, woman's education, age at first marriage, unwanted births | categorical & continuous | 1 - percentage of unwanted births | continuous | 0 | n/a | 	What are the direct and indirect effects of socio-demographic factors on unwanted births in Bangladesh? | socio-demographic factors have no effect on unwanted births in Bangladesh | 0.01 | [Correlates of Unwanted Births in Bangladesh: A Study through Path Analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164007) |
 
-## Main plot: 
+## Main table: 
 
 ![main plot](bangladesh_births.png)
 
 
+## Test 1: Logistic Regression
+
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-Logistic regression	| 1, age | continuous | 1, selected for final interview or not | dichotomous | 0 | n/a | 	Does age have an effect in the astronaut final interview selection process? | age has no effect on being selected for final interview | 0.05 | 
+Logistic regression	| 1, age | continuous | 1, selected for final interview or not | dichotomous | 0 | n/a | 	Does age have an effect in the astronaut final interview selection process? | age has no effect on being selected for final interview | 0.05 | [Analysis of age as a factor in NASA astronaut selection and career landmarks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181381) |
 
 ## Main plot:
 
