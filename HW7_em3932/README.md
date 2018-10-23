@@ -1,0 +1,3 @@
+For this homework, I practiced using census data and working with geopandas. I downloaded geographic data for NYC PUMAs (public use microdata areas). I downloaded census data from American Fact Finder regarding NYC households, NYC households with broadband internet access, and NYC population. I manipulated the data to get the values I needed. I created a countour plot of NYC PUMAs. I created several choropleths to look at the distribution of households with broadband internet access in NYC. I also downloaded data for LinkNYC locations and compared LinkNYC locations to households with broadband internet access throughout the city. 
+
+I worked on this homework by myself. 
