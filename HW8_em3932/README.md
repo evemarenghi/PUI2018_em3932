@@ -1,4 +1,4 @@
-For part 1 of this homework, I create a plot of motor vehicle accidents in NYC from a dataset provided by NYC Open Data. 
+For part 1 of this homework, I created a plot of motor vehicle accidents in NYC from a dataset provided by NYC Open Data. 
 
 ![plot](hw8_mv_plot.png)
 
